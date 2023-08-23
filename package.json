@@ -3,6 +3,6 @@
     "type": "module",
     "version": "0.0.1",
     "scripts": {
-        "start": "(cd ./backend/strapi && npm run develop) & (cd ./frontend/far-force && npm run start)"
+        "start": "(cd ./backend/strapi && yarn run develop) & (cd ./frontend/far-force && yarn run start)"
     }
 }
