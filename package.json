@@ -1,0 +1,8 @@
+{
+    "name": "strapi_astro",
+    "type": "module",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "(cd ./backend/strapi && npm run start) & (cd ./frontend/far-force && npm run start)"
+    }
+}
