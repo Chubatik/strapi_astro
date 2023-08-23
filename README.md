@@ -1,1 +1,1 @@
-# strapi_astro
+# strapi_astro init
