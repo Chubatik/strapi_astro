@@ -1,0 +1,1 @@
+export const getImage = async (url: string) => `${import.meta.env.STRAPI_URL}${url}`
